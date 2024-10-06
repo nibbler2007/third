@@ -8,9 +8,3 @@ g
 df
 
 
-
-g
-fd
-gd
-fg
-f
